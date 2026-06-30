@@ -39,4 +39,4 @@ Software Developer & Videogame Designer.
 
 * **Español:** Nativo
 * **English:** Advanced (Fluent)
-* **Português:** Avançado
+* **Português:** Avançado[cite: 1]
