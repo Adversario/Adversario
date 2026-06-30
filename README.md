@@ -9,7 +9,7 @@ Software Developer & Videogame Designer.
 
 ## Languages & Frameworks 💻
 
-<p align="left">
+<p align="left" style="pointer-events: none;">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -18,7 +18,7 @@ Software Developer & Videogame Designer.
 
 ## DevOps, Cloud & QA 🛡️
 
-<p align="left">
+<p align="left" style="pointer-events: none;">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -28,7 +28,7 @@ Software Developer & Videogame Designer.
 
 ## Tools & Environments 🛠️
 
-<p align="left">
+<p align="left" style="pointer-events: none;">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -38,5 +38,5 @@ Software Developer & Videogame Designer.
 ## Languages 🌐
 
 * **Español:** Nativo
-* **English:** Advanced (Fluent)
+* **English:** Advanced (Fluent)[cite: 1]
 * **Português:** Avançado[cite: 1]
