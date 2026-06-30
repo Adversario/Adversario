@@ -2,10 +2,10 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Adversario&color=007ec6&style=flat-square)
 
+Software Developer & Videogame Designer.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/simon-riffo/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:simonriffo@gmail.com)
-
-Software Developer & Videogame Designer.
 
 ## Languages & Frameworks 💻
 
